@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://dsc.gg/manager.development)
+[![MasterHead](https://camo.githubusercontent.com/303a572293881e12bb0eeb72ed33ce69da1b336018b5598c3822df3712fc4113/68747470733a2f2f646973636f72642e636f6d2f6173736574732f65663535356266363339613131626436356165333036353236333738386262612e706e67)](https://dsc.gg/manager.development)
 <h1 align="center">Hi 👋, I'm CoderFredi</h1>
 <h3 align="center">A Verified Discord Bot Developer and a Youtuber</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
