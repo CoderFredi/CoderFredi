@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/940991190873043016/1080004552759189605/Image_Tech_Job_Software_Developer_LandingPage.png?width=1025&height=320)](https://dsc.gg/manager.development)
+[![MasterHead]
 <h1 align="center">Hi 👋, I'm CoderFredi</h1>
 <h3 align="center">A Verified Discord Bot Developer and a Youtuber</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
